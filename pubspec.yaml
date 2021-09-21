@@ -1,4 +1,4 @@
-name: ecom_graphql
+name: graphqltest
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -23,13 +23,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  graphql_flutter: ^5.0.0
+  http: ^0.13.3
 
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  graphql_flutter: ^5.0.0
-  
 
 dev_dependencies:
   flutter_test:

@@ -1,4 +1,4 @@
-# ecom_graphql
+# graphqltest
 
 A new Flutter project.
 

@@ -1,6 +1,6 @@
 {
-    "name": "ecom_graphql",
-    "short_name": "ecom_graphql",
+    "name": "graphqltest",
+    "short_name": "graphqltest",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
